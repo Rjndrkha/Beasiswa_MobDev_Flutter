@@ -2,11 +2,13 @@
 ## By Rajendra Rakha Online Test 
 
 [Link UI & UX](https://www.figma.com/file/D5LUeFQH0n2Yu5tz8MkWif/Java-Code-App-(Test)?node-id=0%3A1)
+
+[Link API JSON](https://tes-mobile.landa.id/)
 ___
 
 ### PREVIEW APPS
 
-
+![venturo](https://user-images.githubusercontent.com/75615789/192224885-41d8864f-428e-4d5a-a877-d5e73f7ab865.gif)
 
 
 ```
